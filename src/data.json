@@ -1,0 +1,179 @@
+{
+"clubs":[
+    {
+        "name": "SL Benfica",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/en/a/a2/SL_Benfica_logo.svg",
+        "location": [38.75269132714617, -9.184690558253253],
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Sport_Lisboa_e_Benfica"
+    },
+    {
+        "name": "Sporting CP",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/pt/thumb/3/3e/Sporting_Clube_de_Portugal.png/120px-Sporting_Clube_de_Portugal.png",
+        "location": [38.76120837091949, -9.160967934465708],
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Sporting_Clube_de_Portugal"
+    },
+    {
+        "name": "FC Porto",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/pt/c/c5/F.C._Porto_logo.png",
+        "location": [41.16177967204667, -8.583700918365183],
+        "wikipediaURL": "https://en.wikipedia.org/wiki/FC_Porto"
+    },
+    {
+        "name": "SC Braga",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/S.C._Braga_logo.svg/1200px-S.C._Braga_logo.svg.png",
+        "location": [41.56252901830912, -8.429819568345607],
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Sporting_Clube_de_Braga"
+    },
+     {
+        "name": "Vitória SC ",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/pt/b/b3/VitoriaGuimaraes.png",
+        "location": [41.4458806498218, -8.300929914329359],
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Vit%C3%B3ria_Sport_Clube"
+    },
+    {
+        "name": "Moreirense FC",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/8c/Logo_Moreirense.svg/596px-Logo_Moreirense.svg.png",
+        "location": [41.378081020790766, -8.354585425176179],
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Moreirense_Futebol_Clube"
+    },
+    {
+        "name": "FC Arouca",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/pt/8/84/2310.png",
+        "location": [40.932999611175795, -8.250223665662983],
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Futebol_Clube_de_Arouca"
+    },
+    {
+        "name": "FC Famalicão",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/pt/6/61/Escudo_Famalic%C3%A3o.png",
+        "location": [41.40139590366804, -8.522438903722147],
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Futebol_Clube_Famalic%C3%A3o"
+    },    
+    {
+        "name": "Casa Pia AC",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/en/4/4d/Casa_Pia_A.C._logo.png",
+        "location": [38.737546401647286, -9.203061083748688],
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Casa_Pia_A.C."
+    },
+    {
+        "name": "SC Farense",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/en/d/d1/S.C._Farense.png",
+        "location": [37.02275433795344, -7.928491571532778],
+        "wikipediaURL": "https://en.wikipedia.org/wiki/S.C._Farense"
+    },
+    {
+        "name": "Rio Ave FC",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rio_Ave_FC_logo.svg",
+        "location": [41.36273395564049, -8.74012978252307],
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Rio_Ave_F.C."
+    },
+    {
+        "name": "Gil Vicente FC",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/en/8/8f/Gil_Vicente_F.C.png",
+        "location": [41.551125753057775, -8.623118587423827],
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Gil_Vicente_F.C."
+    },
+    {
+        "name": "GD Estoril Praia",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/en/9/94/GD_Estoril_Praia_logo.svg",
+        "location": [38.715841260996115, -9.406457595414407],
+        "wikipediaURL": "https://en.wikipedia.org/wiki/G.D._Estoril_Praia"
+    },
+    {
+        "name": "CF Estrela da Amadora",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/0/08/S%C3%ADmbolo_Estrela_da_Amadora.svg",
+        "location": [38.752014647234844, -9.22789230700855],
+        "wikipediaURL": "https://en.wikipedia.org/wiki/C.F._Estrela_da_Amadora"
+    },
+    {
+        "name": "Boavista",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/en/4/40/Boavista_F.C._logo.svg",
+        "location": [41.16222085799929, -8.642565873972258],
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Boavista_F.C."
+    },
+    {
+        "name": "Potimonense SC",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/en/c/c0/Portimonense_Sporting_Clube_logo.svg",
+        "location": [37.13571214213219, -8.539815081896535],
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Portimonense_S.C."
+    },
+    {
+        "name": "FC Vizela",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/en/e/e3/F.C._Vizela_logo.png",
+        "location": [41.38868701795054, -8.30732634305498],
+        "wikipediaURL": "https://en.wikipedia.org/wiki/F.C._Vizela"
+    },
+    {
+        "name": "GD Chaves",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/en/0/05/G_D_Chaves.png",
+        "location": [41.75067293676461, -7.464844894262354],
+        "wikipediaURL": "https://en.wikipedia.org/wiki/G.D._Chaves"
+    },
+
+
+    {
+        "name": "Real Madrid CF",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+        "location": [40.4530343093199, -3.68835068147891],
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Real_Madrid_CF"
+    },
+    {
+        "name": "FC Barcelona",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
+        "location": [41.38095169446538, 2.12297384274558],
+        "wikipediaURL": "https://en.wikipedia.org/wiki/FC_Barcelona"
+    },
+    {
+        "name": "Girona FC",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/en/f/f7/Girona_FC_Logo.svg",
+        "location": [41.961053986914216, 2.8277558045122957],
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Girona_FC"
+    },
+    {
+        "name": "Club Altético Madrid",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/en/f/f4/Atletico_Madrid_2017_logo.svg",
+        "location": [40.43622834004254, -3.5994719575161747],
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Atl%C3%A9tico_Madrid"
+    },
+    {
+        "name": "Athletic Club Bilbao",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/en/9/98/Club_Athletic_Bilbao_logo.svg",
+        "location": [43.26414371429793, -2.949347968417489],
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Athletic_Bilbao"
+    },
+    {
+        "name": "Real Sociedad de Fútbol",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/en/f/f1/Real_Sociedad_logo.svg",
+        "location": [43.301360653148315, -1.9735743947833582],
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Real_Sociedad"
+    },
+    {
+        "name": "Betis Deportivo Balompié",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/en/1/13/Real_betis_logo.svg",
+        "location": [37.35649302953574, -5.981718272812626],
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Betis_Deportivo_Balompi%C3%A9"
+    },
+    {
+        "name": "Villareal CF",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Villarreal_CF_logo-en.svg/800px-Villarreal_CF_logo-en.svg.png",
+        "location": [39.94413721749041, -0.10342413222592176],
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Villarreal_CF"
+    },
+    {
+        "name": "Valencia",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valenciacf.svg",
+        "location": [39.47465721604038, -0.3581922218462856],
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Valencia_CF"
+    },
+    {
+        "name": "Deportivo Alavés",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/en/f/f8/Deportivo_Alaves_logo_%282020%29.svg",
+        "location": [42.83707624717057, -2.6882320276833718],
+        "wikipediaURL": "https://en.wikipedia.org/wiki/Deportivo_Alav%C3%A9s"
+    }
+
+    
+
+   
+
+]
+}
